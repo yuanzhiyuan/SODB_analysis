@@ -40,7 +40,10 @@ its companion command-line package [**pysodb**](https://github.com/TencentAILabH
 
 
 ## Cite
+<br>
 Yuan, Z., Pan, W., Zhao, X. et al. SODB facilitates comprehensive exploration of spatial omics data. Nat Methods (2023). https://doi.org/10.1038/s41592-023-01773-7
+
+<br>
 Spatial Omics DataBase (SODB): increasing accessibility to spatial omics data. Nat Methods (2023). https://doi.org/10.1038/s41592-023-01772-8
 
 
