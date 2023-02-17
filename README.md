@@ -8,6 +8,7 @@ its companion command-line package [**pysodb**](https://github.com/TencentAILabH
 - Demonstration
 
 
+
 ## SODB overview
 
 ![SODB](Images/SODB.jpg)
@@ -38,6 +39,9 @@ its companion command-line package [**pysodb**](https://github.com/TencentAILabH
 | Demonstration | Demonstrate the compatibility with SCANPY and Squidpy |Fig. 1| [Link](Demonstration/)|
 
 
+## Cite
+Yuan, Z., Pan, W., Zhao, X. et al. SODB facilitates comprehensive exploration of spatial omics data. Nat Methods (2023). https://doi.org/10.1038/s41592-023-01773-7
+Spatial Omics DataBase (SODB): increasing accessibility to spatial omics data. Nat Methods (2023). https://doi.org/10.1038/s41592-023-01772-8
 
 
 
