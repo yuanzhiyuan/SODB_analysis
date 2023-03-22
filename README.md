@@ -1,4 +1,5 @@
 ## Overall
+<br> New: A command-line version of SOView is available at [**SOView**](https://soview-doc.readthedocs.io/en/latest/index.html)
 
 <br>This repo contains code related to [**SODB**](https://gene.ai.tencent.com/SpatialOmics/) and 
 its companion command-line package [**pysodb**](https://github.com/TencentAILabHealthcare/pysodb).
